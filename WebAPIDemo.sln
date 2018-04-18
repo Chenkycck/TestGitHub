@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIDemo", "WebAPIDemo\WebAPIDemo.csproj", "{BEE9A6CF-E335-4244-9940-5E32A514951E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeService", "EmployeeService\EmployeeService.csproj", "{C4FB8048-8AF7-4B06-B750-CCD6E633BDC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE9A6CF-E335-4244-9940-5E32A514951E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE9A6CF-E335-4244-9940-5E32A514951E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE9A6CF-E335-4244-9940-5E32A514951E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE9A6CF-E335-4244-9940-5E32A514951E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4FB8048-8AF7-4B06-B750-CCD6E633BDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4FB8048-8AF7-4B06-B750-CCD6E633BDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4FB8048-8AF7-4B06-B750-CCD6E633BDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4FB8048-8AF7-4B06-B750-CCD6E633BDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
